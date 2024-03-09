@@ -1,0 +1,7 @@
+## Taxes
+TAXES_TPS = 0.005
+TAXES_TVQ = 0.09975
+
+
+## New property
+REGISTRATION_FEES = 1_000
